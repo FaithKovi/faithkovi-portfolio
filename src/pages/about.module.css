@@ -1,0 +1,47 @@
+.main {
+  max-width: 800px;
+  margin: 3rem auto 5rem auto;
+  padding: 0 1rem;
+  line-height: 1.6;
+  color: #222;
+}
+
+h1 {
+  font-size: 2.8rem;
+  color: #023e8a;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.bio p {
+  margin-bottom: 1.25rem;
+  font-size: 1.1rem;
+}
+
+.skillsSection {
+  margin-top: 3rem;
+}
+
+.skillsSection h2 {
+  color: #0077b6;
+  margin-bottom: 1rem;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.skillsList {
+  list-style-type: disc;
+  margin-left: 2rem;
+  color: #444;
+  font-size: 1.05rem;
+}
+
+.values {
+  margin-top: 3rem;
+  background: #e0f0ff;
+  padding: 1.5rem 2rem;
+  border-radius: 8px;
+  font-style: italic;
+  font-size: 1.1rem;
+  color: #005f99;
+}
