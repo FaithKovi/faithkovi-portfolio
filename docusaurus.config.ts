@@ -16,7 +16,7 @@ const config = {
 
   organizationName: 'FaithKovi', // GitHub username
   projectName: 'faithkovi-portfolio', // Repo name
-  deploymentBranch: 'gh-pages',
+  // deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
   i18n: {
