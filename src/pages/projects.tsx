@@ -31,7 +31,7 @@ const projectsData: Project[] = [
     category: 'documentation',
     featured: true,
     links: {
-      demo: 'https://faithkovi.github.io/faithkovi-portfolio/',
+      demo: 'https://faithkovi.github.io/',
       repository: 'https://github.com/FaithKovi/faithkovi-portfolio'
     },
     metrics: [

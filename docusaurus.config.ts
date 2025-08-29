@@ -9,7 +9,7 @@ const config = {
   title: 'Faith Kovi',
   tagline: 'Documentation Engineer | DevRel Enthusiast | Cloud Native Advocate',
   url: 'https://faithkovi.github.io',
-  baseUrl: '/faithkovi-portfolio/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/faith-kovi-logo-blue.svg',
@@ -94,13 +94,13 @@ const config = {
         { name: 'keywords', content: 'Faith Kovi, DevRel, Documentation, Cloud Native, Technical Writer, Portfolio, Platform Engineering, Kubernetes, AWS' },
         { property: 'og:title', content: 'Faith Kovi Portfolio' },
         { property: 'og:description', content: 'Explore my projects, blogs, and experience in documentation and cloud native advocacy.' },
-        { property: 'og:image', content: 'https://faithkovi.github.io/faithkovi-portfolio/img/faith-kovi-headshot.jpg' }, // Replace with actual image
-        { property: 'og:url', content: 'https://faithkovi.github.io/faithkovi-portfolio/' },
+        { property: 'og:image', content: 'https://faithkovi.github.io/img/faith-kovi-headshot.jpg' }, // Replace with actual image
+        { property: 'og:url', content: 'https://faithkovi.github.io/' },
         { property: 'og:type', content: 'website' },
         { name: 'twitter:card', content: 'summary_large_image' },
         { name: 'twitter:title', content: 'Faith Kovi Portfolio' },
         { name: 'twitter:description', content: 'Explore my projects, blogs, and experience in documentation and cloud native advocacy.' },
-        { name: 'twitter:image', content: 'https://faithkovi.github.io/faithkovi-portfolio/img/faith-kovi-headshot.jpg' }, // Replace with actual image
+        { name: 'twitter:image', content: 'https://faithkovi.github.io/img/faith-kovi-headshot.jpg' }, // Replace with actual image
       ],
     }),
 
