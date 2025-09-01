@@ -45,6 +45,7 @@ const config = {
           { to: '/about', label: 'About', position: 'left' },
           { to: '/projects', label: 'Projects', position: 'left' },
           { to: '/blog', label: 'Blog', position: 'left' },
+          { to: '/resume', label: 'Resume', position: 'left' },
           { to: '/contact', label: 'Contact', position: 'left' },
           {
             href: 'https://github.com/FaithKovi',
@@ -64,6 +65,7 @@ const config = {
               { label: 'Projects', to: '/projects' },
               { label: 'Blog', to: '/blog' },
               { label: 'Contact', to: '/contact' },
+              { label: 'Resume', to: '/resume' },
             ],
           },
           {

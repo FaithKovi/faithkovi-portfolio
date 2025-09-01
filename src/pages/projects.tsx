@@ -31,7 +31,7 @@ const projectsData: Project[] = [
     category: 'documentation',
     featured: true,
     links: {
-      demo: 'https://faithkovi.github.io/',
+      demo: 'https://faithkovi.xyz',
       repository: 'https://github.com/FaithKovi/faithkovi-portfolio'
     },
     metrics: [
@@ -39,101 +39,6 @@ const projectsData: Project[] = [
       { label: 'Load Time', value: '<2s' }
     ]
   },
-  // {
-  //   id: 'api-docs-redesign',
-  //   title: 'API Documentation Redesign',
-  //   description: 'Complete overhaul of REST API documentation using OpenAPI specifications, improving developer onboarding time by 60% through interactive examples and clear navigation structure.',
-  //   technologies: ['OpenAPI', 'Docusaurus', 'MDX', 'TypeScript'],
-  //   category: 'documentation',
-  //   featured: true,
-  //   links: {
-  //     demo: '#',
-  //     documentation: '#'
-  //   },
-  //   metrics: [
-  //     { label: 'Developer Onboarding', value: '60% faster' },
-  //     { label: 'Support Tickets', value: '40% reduction' }
-  //   ]
-  // },
-  // {
-  //   id: 'docs-automation',
-  //   title: 'Documentation Automation Pipeline',
-  //   description: 'Built CI/CD pipeline for automated documentation generation, testing, and deployment, reducing manual documentation maintenance by 75% while ensuring consistency across products.',
-  //   technologies: ['GitHub Actions', 'Node.js', 'Markdown', 'Docker'],
-  //   category: 'tooling',
-  //   featured: true,
-  //   links: {
-  //     repository: '#',
-  //     documentation: '#'
-  //   },
-  //   metrics: [
-  //     { label: 'Manual Work', value: '75% reduction' },
-  //     { label: 'Consistency Score', value: '95%' }
-  //   ]
-  // },
-  // {
-  //   id: 'sdk-documentation',
-  //   title: 'Multi-Platform SDK Documentation',
-  //   description: 'Created comprehensive SDK documentation for Python, JavaScript, and Go, with code examples, tutorials, and troubleshooting guides that increased SDK adoption by 3x.',
-  //   technologies: ['Sphinx', 'JSDoc', 'GoDoc', 'Algolia DocSearch'],
-  //   category: 'documentation',
-  //   featured: true,
-  //   links: {
-  //     demo: '#',
-  //     documentation: '#'
-  //   },
-  //   metrics: [
-  //     { label: 'SDK Adoption', value: '3x increase' },
-  //     { label: 'Search Accuracy', value: '92%' }
-  //   ]
-  // },
-  // {
-  //   id: 'content-style-guide',
-  //   title: 'Technical Content Style Guide',
-  //   description: 'Developed comprehensive style guide and content governance framework for engineering teams, standardizing technical communication across 12 product teams.',
-  //   technologies: ['Notion', 'Grammarly Business', 'Vale Linter'],
-  //   category: 'content-strategy',
-  //   featured: false,
-  //   links: {
-  //     documentation: '#'
-  //   },
-  //   metrics: [
-  //     { label: 'Teams Adopted', value: '12 product teams' },
-  //     { label: 'Content Quality', value: '85% improvement' }
-  //   ]
-  // },
-  // {
-  //   id: 'developer-portal',
-  //   title: 'Developer Experience Portal',
-  //   description: 'Designed and implemented centralized developer portal combining API docs, SDKs, tutorials, and community resources, resulting in 50% increase in developer engagement.',
-  //   technologies: ['Docusaurus', 'React', 'Algolia', 'Intercom'],
-  //   category: 'developer-experience',
-  //   featured: false,
-  //   links: {
-  //     demo: '#',
-  //     documentation: '#'
-  //   },
-  //   metrics: [
-  //     { label: 'Developer Engagement', value: '50% increase' },
-  //     { label: 'Time to First Success', value: '40% faster' }
-  //   ]
-  // },
-  // {
-  //   id: 'docs-analytics',
-  //   title: 'Documentation Analytics Dashboard',
-  //   description: 'Built analytics system to track documentation usage, identify content gaps, and measure developer success metrics, enabling data-driven content strategy decisions.',
-  //   technologies: ['Google Analytics', 'Mixpanel', 'D3.js', 'Python'],
-  //   category: 'tooling',
-  //   featured: false,
-  //   links: {
-  //     repository: '#',
-  //     demo: '#'
-  //   },
-  //   metrics: [
-  //     { label: 'Content Gaps Identified', value: '23 critical areas' },
-  //     { label: 'Data Accuracy', value: '98%' }
-  //   ]
-  // }
 ];
 
 const categoryLabels = {
