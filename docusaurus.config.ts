@@ -8,7 +8,7 @@ import draculaTheme from 'prism-react-renderer/themes/dracula';
 const config = {
   title: 'Faith Kovi',
   tagline: 'Documentation Engineer | DevRel Enthusiast | Cloud Native Advocate',
-  url: 'https://faithkovi.github.io',
+  url: 'https://faithkovi.xyz',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
